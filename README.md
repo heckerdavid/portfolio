@@ -1,3 +1,3 @@
-# Modify this portfolio
+# David Hecker's 301 portfolio
 
-Make it your own! 
+[Link to the live site](https://davidhecker.netlify.app/)
