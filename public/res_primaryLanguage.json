@@ -24,12 +24,20 @@
             "name": "HTML"
           },
           {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
           },
           {
-            "class": "devicon-css3-plain",
-            "name": "CSS"
+            "class": "devicon-git-plain",
+            "name": "Git"
+          },
+          {
+            "class": "devicon-github-plain",
+            "name": "Github"
           }
         ]
       },
@@ -47,16 +55,20 @@
             "name": "HTML"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          },
-          {
             "class": "devicon-css3-plain",
             "name": "CSS"
           },
           {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
             "class": "devicon-git-plain",
-            "name": "GIT"
+            "name": "Git"
+          },
+          {
+            "class": "devicon-github-plain",
+            "name": "Github"
           }
         ]
       },
@@ -74,12 +86,20 @@
             "name": "HTML"
           },
           {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
           },
           {
-            "class": "devicon-css3-plain",
-            "name": "CSS"
+            "class": "devicon-git-plain",
+            "name": "Git"
+          },
+          {
+            "class": "devicon-github-plain",
+            "name": "Github"
           }
         ]
       }
