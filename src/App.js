@@ -98,7 +98,7 @@ class App extends Component {
         </Switch>
         <Footer 
           sharedBasicInfo={this.state.sharedData.basic_info}
-          applyPickedLanguage={this.applyPickedLanguage} 
+          // applyPickedLanguage={this.applyPickedLanguage} 
         />  
       </Router>
     );
