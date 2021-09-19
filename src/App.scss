@@ -32,13 +32,12 @@ html {
 header {
 	position: relative;
 	height: 120px;
-	min-height: 50px;
+	min-height: 120px;
 	width: 100%;
-	background-size: cover;
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-color: #BEABD6;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -77,7 +76,7 @@ header .nav {
 }
 
 .skills-tile {
-	background-color: transparentize(#F8F5F4, 0.95);
+	background-color: transparentize(#635A70, 0.95);
 	padding: 10px 10px 5px 10px;
 	width: 100px;
 	margin: 5px 0 5px 0;
@@ -86,7 +85,7 @@ header .nav {
 
 .language {
 	font-size: 25px;
-	background-color: #e9d5a1;
+	background-color: #BEABD6;
 	padding-bottom: 10px;
 	padding-top: 80px;
 }
@@ -102,11 +101,11 @@ header h1 {
 }
 
 .slider-image {
-	border: 5px solid #D7CAAA;
+	border: 5px solid #635A70;
 }
 
 .slider-tab {
-	background-color: #D7CAAA;
+	background-color: #635A70;
 	height: 25px;
 }
 
@@ -231,7 +230,7 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	// background: #efe1bd;
 }
 
 .experience-icon {
@@ -245,7 +244,7 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #AE944F !important;
+	background-color: #635A70 !important;
 	color: white;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -256,7 +255,6 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #f9f5e9 !important;
 	color: black;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -353,7 +351,6 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
 	padding-bottom: 5%;
 }
 
@@ -389,11 +386,12 @@ header h1 {
 }
 
 #skills {
-	background: #1F1F1F;
+	background: #D5C0F0;
 	min-height: 200px;
 	width: 100%;
 	overflow: hidden;
 	padding-bottom: 10%;
+	color: #635A70;
 }
 
 .section-title {
@@ -402,20 +400,19 @@ header h1 {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
-	color: #fff;
 	text-align: center;
 }
 
 .skill-icon {
 	font-size: 180%;
-	color: white;
+	// color: white;
 	text-align: center;
 	position: relative;
 }
 
 footer {
-	background: #1F1F1F;
-	min-height: 100px;
+	background-image: url('./1400x442.png');
+	min-height: 422px;
 	width: 100%;
 	overflow: hidden;
 	font-size: 14px;
