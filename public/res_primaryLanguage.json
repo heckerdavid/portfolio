@@ -13,7 +13,7 @@
       {
         "title": "Profile",
         "startDate": "2021",
-        "description": "I NEED UPDATED =)",
+        "description": "One of my first projects in Code 201, I learned the basics of HTML and CSS from this simple project.",
         "images": [
           "images/profile.png"
         ],
@@ -24,19 +24,27 @@
             "name": "HTML"
           },
           {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
           },
           {
-            "class": "devicon-css3-plain",
-            "name": "CSS"
+            "class": "devicon-git-plain",
+            "name": "Git"
+          },
+          {
+            "class": "devicon-github-plain",
+            "name": "Github"
           }
         ]
       },
       {
         "title": "Spondora",
         "startDate": "2021",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "description": "My first group project where I learned the importance of git and collaboration.",
         "images": [
           "images/spondora.png"
         ],
@@ -47,23 +55,27 @@
             "name": "HTML"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          },
-          {
             "class": "devicon-css3-plain",
             "name": "CSS"
           },
           {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
             "class": "devicon-git-plain",
-            "name": "GIT"
+            "name": "Git"
+          },
+          {
+            "class": "devicon-github-plain",
+            "name": "Github"
           }
         ]
       },
       {
         "title": "Cookie Stand",
         "startDate": "2021",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "description": "Early 201 project, I learned about sidebars, inner HTML, data rendering/display, and interactive CSS.",
         "images": [
           "images/salmoncookies.png"
         ],
@@ -74,49 +86,52 @@
             "name": "HTML"
           },
           {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
           },
           {
-            "class": "devicon-css3-plain",
-            "name": "CSS"
+            "class": "devicon-git-plain",
+            "name": "Git"
+          },
+          {
+            "class": "devicon-github-plain",
+            "name": "Github"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "CodeFellows",
+        "title": "Software Developer - Student",
+        "years": "2021 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "React"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Python",
+          "HTML5",
+          "CSS3",
+          "Boostrap"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "U.S. Navy",
+        "title": "Lead Engineering Laboratory Technician",
+        "years": "2015 - 2021",
         "mainTech": [
-          "Angular 7/8"
+          "Windows XP"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Microsoft Outlook",
+          "Microsoft Excel",
+          "Microsoft Word",
+          "Microsoft PowerPoint"
         ]
       }
     ]

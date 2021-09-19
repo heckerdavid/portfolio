@@ -3,7 +3,7 @@ body[data-theme="dark"] {
    @import '/src/scss/dark-slider.scss';
 
    .slider-tab {
-      background-color: #8C8C8C;
+      background-color: #635A70;
    }
 
    .title-styles {
@@ -16,11 +16,11 @@ body[data-theme="dark"] {
    }
 
    .slider-image {
-      border: 5px solid #8C8C8C;
+      border: 5px solid #635A70;
    }
 
    .language {
-      background-color: #494949;
+      background-color: #635A70;
    }
 
    .link-href {
@@ -28,19 +28,19 @@ body[data-theme="dark"] {
    }
 
    .project-date {
-      background-color: #918e97;
+      background-color: #635A70;
       color: white;
    }
 
    header {
-      background-color: #494949;
+      background-color: #635A70;
       h1 {
          color: white;
       }
    }
 
    #about {
-      background-color: #7f7f7f;
+      background-color: #635A70;
       h1 span {
          color: white;
       }
