@@ -2,12 +2,12 @@
 
 [Link to the live site](https://davidhecker.netlify.app/)
 
-Number and name of feature: ________________________________
+Number and name of feature: Personalize the template
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 3 hours
 
-Start time: _____
+Start time: 1500 / 0900 / 1300 / 1430
 
-Finish time: _____
+Finish time: 1700 / 1100 / 1630 / 1530
 
-Actual time needed to complete: _____
+Actual time needed to complete: 8.5 hours
